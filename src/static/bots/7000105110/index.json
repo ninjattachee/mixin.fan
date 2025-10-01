@@ -1,0 +1,25 @@
+{
+    "id": "7000105110",
+    "client_id": "acb84d50-3838-48de-af0b-d4a25477cd15",
+    "url": "https://bearer.atank.org",
+    "name": {
+        "en": "Bearer"
+    },
+    "text": {
+        "en": ["Bearer is a revolutionary intelligent reminder service", "It is not just a simple reminder tool, but an AI assistant that understands you, remembers you, and accompanies you"],
+        "zh": ["Bearer 是一个革命性的智能提醒服务", "它不仅仅是一个简单的提醒工具，更是一个能够理解你、记住你、陪伴你的AI助手"]
+    },
+    "category": "util",
+    "tags": {
+        "en": ["reminder", "ai-driven"],
+        "zh": ["提醒", "智能体"]
+    },
+    "language": "en",
+    "languages": ["en"],
+    "developer": {
+        "name": "Atank",
+        "url": "https://atank.org"
+    },
+    "website": "https://bearer.atank.org",
+    "support_url": "https://bearer.atank.org"
+}
